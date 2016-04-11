@@ -1,3 +1,1 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.798056 21.881944 -102 180
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -82.8017 21.9133 1.1 83.87
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -82.8017 21.9133 1.1 194.51
+OBJECT_BASE 1596409.btg

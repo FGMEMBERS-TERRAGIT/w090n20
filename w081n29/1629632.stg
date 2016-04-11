@@ -1,18 +1,9 @@
-OBJECT_SHARED Models/Airport/ndb.ac -80.941431 29.054214 1.65 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.974167 29.008889 -86.7 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.940611 29.097889 -141.97 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.931361 29.015306 -141.1 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.928667 29.027333 -138.6 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.914444 29.014167 -153.15 180
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.999778 29.019913 6.57 301.82
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.999464 29.019499 6.73 303.71
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.994215 29.012661 8 302.98
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.994172 29.012601 8 302.04
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.981573 29.031051 6.81 185.87
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.98015 29.031179 6.37 183.37
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.974403 29.031256 3.21 180.88
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.967463 29.031349 1.36 163.15
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.963304 29.028843 0.9 146.41
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.960321 29.027175 0.9 148.49
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.959729 29.026871 0.91 146.25
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.958957 29.026361 0.92 142.93
+OBJECT_BASE 1629632.btg
+OBJECT KEVB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.950268 29.048821 1.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.958372 29.055050 1.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.953904 29.056379 1.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.945609 29.059654 2.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.943856 29.061245 1.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.940621 29.052035 2.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -80.946949 29.055128 1.8 0.00

@@ -1,7 +1,12 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.435944 27.209778 -78.91 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.356667 27.213333 -60.16 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.348611 27.158333 -28.46 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.346389 27.153333 -64.74 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.344167 27.201667 -73.02 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.334444 27.2075 -96.17 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.330694 27.2075 -56.12 180
+OBJECT_BASE 1613130.btg
+OBJECT FD72.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.390426 27.186470 43.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.390831 27.179184 43.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -81.389821 27.182852 -9999.0 0.00
+OBJECT 09FA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.412825 27.252359 38.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.413287 27.238752 39.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -81.412516 27.245557 -9999.0 0.00
+OBJECT 8X7.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.390774 27.239092 35.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.381038 27.238779 28.0 0.00

@@ -1,24 +1,4 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.476889 28.113278 -87.99 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.272944 28.092806 -85.5 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.266944 28.089722 -61.1 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.264444 28.083889 -113.2 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.255833 28.077222 -91.6 180
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.337273 28.000297 16.59 34.25
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.317547 28.012089 15.88 34.52
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.315847 28.013137 15.87 35.47
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.309042 28.017497 15.74 34.06
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.307817 28.018289 15.73 36.01
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.307775 28.018253 15.73 34.06
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.304165 28.020408 15.63 34.08
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.3034 28.020865 15.61 34.08
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.300764 28.022439 15.52 34.07
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.299494 28.023197 15.49 34.07
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.295549 28.025552 15.56 34.07
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.288506 28.029756 15.6 33.38
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.287145 28.030527 15.61 32.69
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.286458 28.03089 15.61 34.02
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.279992 28.034742 15.73 33.87
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.278183 28.035808 15.78 33.73
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.271459 28.039771 16.02 33.74
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.255695 28.049062 16.63 33.73
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.254205 28.04994 16.7 35.33
+OBJECT_BASE 1613186.btg
+OBJECT 64FL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.405821 28.057545 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.395989 28.046937 -9999.0 0.00

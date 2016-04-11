@@ -1,31 +1,9 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.835556 27.888056 -141.94 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.810278 27.885278 -87.87 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.808333 27.89 -57.64 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.803889 27.963889 -142.27 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.8 27.943056 -155.52 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.789167 27.891389 -124.57 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.787778 27.936111 -124.62 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.786667 27.945278 -85.74 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.783889 27.966667 -103.19 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.783333 27.895833 -141.38 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.783056 27.988889 -106.11 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.781389 27.903056 -39.22 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.781389 27.907778 -99.98 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.781389 27.908889 -120.49 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.780833 27.908333 -114.95 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.78 27.9075 -119.88 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.779722 27.908333 -100.48 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.754167 27.978056 -130.59 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -82.837222 27.941944 -426.06 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -82.791389 27.965833 -433.42 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -82.796944 27.915278 -411.8 180
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -82.819516 27.961998 -0.01 172.33
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -82.8176551 27.9723206 -0.01 200.03
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -82.817098 27.966341 0 10.01
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -82.8040088 27.9687684 0.01 311.73
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -82.8039543 27.9706942 0 5.24
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -82.8011378 27.9853996 0 42.42
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -82.819261 27.96297 0.02 210.69
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -82.817595 27.962228 -0.03 263.28
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -82.814986 27.961088 -0.02 103.82
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -82.8041782 27.974875 0 241.37
+OBJECT_BASE 1596792.btg
+OBJECT KCLW.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.760721 27.981114 19.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.756762 27.972258 20.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -82.758006 27.976995 20.1 0.00
+OBJECT 06FL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.803803 27.953902 -9999.0 0.00
+OBJECT FA06.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.789083 27.891590 -9999.0 0.00

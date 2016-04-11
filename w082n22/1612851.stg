@@ -1,8 +1,1 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.205 22.805556 -58.61 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.168611 22.798333 -55.92 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.02 22.818333 -85.2 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.138889 22.814167 -399.34 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.135833 22.811667 -404.81 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.024759 22.801879 -403.48 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.024444 22.802222 -403.31 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.02413 22.802566 -403.14 180
+OBJECT_BASE 1612851.btg

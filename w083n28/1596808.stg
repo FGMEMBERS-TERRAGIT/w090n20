@@ -1,10 +1,1 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.766389 28.207778 -117.44 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.757889 28.129944 -121.03 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.755833 28.131667 -95.07 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.751667 28.137778 -106.91 180
-OBJECT_SHARED Models/Communications/radio-tall.xml -82.768056 28.1825 -190.46 180
-OBJECT_SHARED Models/Communications/radio-tall.xml -82.760556 28.184722 -139.32 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.788611 28.184444 -347.34 180
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.764875 28.202283 2.14 359.65
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.758714 28.20225 3.84 359.66
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.756818 28.20224 4.21 359.66
+OBJECT_BASE 1596808.btg

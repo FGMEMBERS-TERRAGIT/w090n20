@@ -1,39 +1,72 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.985278 27.899167 -75.1 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.968889 27.962361 -77.91 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.968333 27.936389 -96.38 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.928139 27.89225 -72.65 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.9225 27.961111 -53.28 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.922222 27.941111 7.15 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.922222 27.961389 -54.45 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.918056 27.966944 -66.31 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.914167 27.941389 48.39 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.912222 27.943333 -27.76 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.911667 27.9425 -30.99 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.899722 27.8975 -16.63 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.889722 27.993056 -36.05 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.887806 27.998417 -11.65 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.878889 27.971667 -121.07 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.857778 27.909722 -105.22 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.848889 27.912778 -105.32 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.84 27.905833 -86.1 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.829444 27.902222 -101.02 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.8275 27.888333 -73.18 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.826111 27.909722 -102.14 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.825556 27.908889 -102.33 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.825278 27.907778 -102.53 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.821944 27.902222 -110.94 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.818389 27.885 -101.01 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.817861 27.889194 -78.57 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.817778 27.889167 -78.56 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.816389 27.890556 -17.22 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.815833 27.88 -37.9 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.815556 27.88 -41.12 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.799167 27.938611 -145.77 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.791111 27.908889 -101.46 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.780944 27.959972 -115.57 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.780278 27.952222 -117.97 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.761111 27.91 -90.04 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.760972 27.909889 -89.98 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.917776 27.907589 -376.91 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.91745 27.907244 -376.75 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.917275 27.907666 -376.89 180
+OBJECT_BASE 1613176.btg
+OBJECT KBOW.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.777180 27.948075 34.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.776479 27.941299 31.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.773606 27.945209 32.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.791045 27.937207 31.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.791871 27.945351 36.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.791868 27.941503 34.2 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -81.780999 27.946876 34.9 0.00
+OBJECT_SIGN {@L}A1{@@}{@Y}A1{@R}23{^r} -81.778686 27.950143 35.5 134.00 3
+OBJECT_SIGN {@L}A1{@R}23{@@}{@Y}A1 -81.777184 27.949406 34.7 224.00 3
+OBJECT_SIGN {@L}A1{@R}23{@@}{@Y}A1 -81.777032 27.949544 34.7 224.00 3
+OBJECT_SIGN {@L}A1{@Y}H{^r}{@@}{@R}{^u}27R-9L{@Y}D{^ru} -81.782394 27.946873 35.2 314.00 3
+OBJECT_SIGN {@L}A1{@Y}H{^r}{@R}23{^u} -81.780182 27.948826 35.4 314.00 3
+OBJECT_SIGN {@L}A2{@R}23{@@}{@L}A2{@Y}{^lu}A3{@R}{^r}27R -81.775879 27.948711 34.1 59.55 3
+OBJECT_SIGN {@L}A2{@R}23{@@}{@L}A2{@Y}{^lu}A3{@R}{^r}27R -81.776019 27.948504 34.1 59.55 3
+OBJECT_SIGN {@L}A2{@R}27R{@@}{@Y}{^l}A2|A3{^r} -81.772551 27.946448 32.6 182.00 3
+OBJECT_SIGN {@L}A2{@R}27R{@@}{@Y}{^l}A2|A3{^r} -81.772199 27.946458 32.5 182.00 3
+OBJECT_SIGN {@L}A3{@R}{^l}27R{@Y}A2{^ru}{@@}{^u}EAST_HANGARS{^u} -81.771447 27.947398 32.6 93.00 3
+OBJECT_SIGN {@L}A3{@R}{^l}27R{@Y}A2{^ru}{@@}{^u}EAST_HANGARS{^u} -81.771437 27.947131 32.6 93.00 3
+OBJECT_SIGN {@L}A3{@R}{^u}27L{@@}{@R}27R{@Y}{^lu}A2|A3{^ru} -81.772179 27.945135 32.2 183.00 3
+OBJECT_SIGN {@L}A3{@R}{^u}27L{@@}{@R}27R{@Y}{^lu}A2|A3{^ru} -81.772398 27.945129 32.3 183.00 3
+OBJECT_SIGN {@L}A3{@R}27L{@@}{@L}A3{@R}{^u}27R -81.774449 27.942537 32.0 140.00 3
+OBJECT_SIGN {@L}A3{@R}27L{@@}{@L}A3{@R}{^u}27R -81.774264 27.942408 31.9 140.00 3
+OBJECT_SIGN {@L}C1{@R}9L{@Y}{^u}C2{@@}{@L}C1{@Y}D{^r} -81.793214 27.945536 36.5 183.00 3
+OBJECT_SIGN {@L}C1{@R}9L{@Y}{^u}C2{@@}{@L}C1{@Y}D{^r} -81.793525 27.945524 36.5 183.00 3
+OBJECT_SIGN {@L}C2{@R}9L{@Y}{^u}C1{@@}{@L}C2{@R}{^u}9R -81.793426 27.943918 35.7 3.00 3
+OBJECT_SIGN {@L}C2{@R}9L{@Y}{^u}C1{@@}{@L}C2{@R}{^u}9R -81.793193 27.943930 35.7 3.00 3
+OBJECT_SIGN {@L}C2{@R}9R{@Y}{^u}C3{@@}{@L}C2{@R}{^u}9L -81.793292 27.941857 34.6 183.00 3
+OBJECT_SIGN {@L}C2{@R}9R{@Y}{^u}C3{@@}{@L}C2{@R}{^u}9L -81.793067 27.941867 34.6 183.00 3
+OBJECT_SIGN {@L}C3{@R}5{@@}{@L}C3{@R}{^u}9R -81.792335 27.936459 31.6 224.00 3
+OBJECT_SIGN {@L}C3{@R}5{@@}{@L}C3{@R}{^u}9R -81.792164 27.936598 31.6 224.00 3
+OBJECT_SIGN {@L}C3{@R}9R{@Y}{^u}C2{@@}{@L}C3{@R}{^u}5 -81.792956 27.940102 33.6 3.00 3
+OBJECT_SIGN {@L}C3{@R}9R{@Y}{^u}C2{@@}{@L}C3{@R}{^u}5 -81.793204 27.940092 33.7 3.00 3
+OBJECT_SIGN {@L}D{@Y}{^l}GA_APRON|{^u}A1{@@}{@L}D{@R}{^l}9L{@Y}{^l}C1 -81.792544 27.946467 36.9 273.00 3
+OBJECT_SIGN {@L}D{@Y}{^l}GA_APRON|{^u}A1{@@}{@L}D{@R}{^l}9L{@Y}{^l}C1 -81.792527 27.946168 36.7 273.00 3
+OBJECT_SIGN {@L}D{@Y}{^u}{^l}C1|GA_APRON{^r}{@@}{@L}D{@Y}{^lu}A1{@R}27R-9L{^r} -81.784524 27.946528 35.6 93.00 3
+OBJECT_SIGN {@L}D{@Y}{^u}{^l}C1|GA_APRON{^r}{@@}{@L}D{@Y}{^lu}A1{@R}27R-9L{^r} -81.784539 27.946818 35.8 93.00 3
+OBJECT_SIGN {@L}F{@R}9L-27R{@Y}{^l}D|A1{^r}{@@}{@L}F{@R}23-5{@Y}{^lu}G -81.783116 27.944276 34.2 356.19 3
+OBJECT_SIGN {@L}F{@R}9L-27R{@Y}{^l}D|A1{^r}{@@}{@L}F{@R}23-5{@Y}{^lu}G -81.783643 27.944302 34.3 356.19 3
+OBJECT_SIGN {@L}G{@R}27L-9R{@@}{@L}G{@R}5-23{@Y}F{^ru} -81.782561 27.942592 33.2 221.31 3
+OBJECT_SIGN {@L}G{@R}27L-9R{@@}{@L}G{@R}5-23{@Y}F{^ru} -81.782972 27.942278 33.1 221.31 3
+OBJECT_SIGN {@L}H{@R}23-5{@@}{@Y}{^l}A1{^r} -81.778688 27.948148 34.7 224.00 3
+OBJECT_SIGN {@L}H{@R}23-5{@@}{@Y}{^l}A1{^r} -81.778892 27.947980 34.7 224.00 3
+OBJECT_SIGN {@L}H{@Y}{^l}A1{^r}{@@}{@L}H{@R}{^u}23-5 -81.779770 27.948805 35.3 44.00 3
+OBJECT_SIGN {@L}H{@Y}{^l}A1{^r}{@@}{@L}H{@R}{^u}23-5 -81.779572 27.948969 35.3 44.00 3
+OBJECT_SIGN {@R}27R-9L{@Y}{^u}F{@@}{@Y}{^l}D|A1{^r} -81.782916 27.946056 35.0 180.00 3
+OBJECT_SIGN {@R}27R-9L{@Y}{^u}F{@@}{@Y}{^l}D|A1{^r} -81.783666 27.946060 35.2 180.00 3
+OBJECT_SIGN {@Y}{^l}F|G{^r}{@@}{@R}{^ld}27L-9R{^ru}{@Y}C3{^u}{^r} -81.784089 27.942852 33.6 314.00 3
+OBJECT_SIGN {@Y}{^l}F|G{^r}{@@}{@R}{^ld}27L-9R{^ru}{@Y}C3{^u}{^r} -81.783829 27.942626 33.4 314.00 3
+OBJECT_SIGN {@Y}{^l}F|MAIN_APRON{^r}{@@}{@R}{^lu}23-5{^rd}{@Y}{^u}{^l}A2|A3{^u}{^r} -81.782169 27.944985 34.3 93.00 3
+OBJECT_SIGN {@Y}{^l}F|MAIN_APRON{^r}{@@}{@R}{^lu}23-5{^rd}{@Y}{^u}{^l}A2|A3{^u}{^r} -81.782213 27.945569 34.6 93.00 3
+OBJECT_SIGN {@Y}{^l}G{@@}{^l}C3|C2{^r} -81.783133 27.941706 32.8 273.00 3
+OBJECT_SIGN {@Y}{^l}G{@@}{^l}C3|C2{^r} -81.783105 27.941167 32.6 273.00 3
+OBJECT_SIGN {@Y}{^l}G|F{^rd}{@@}{@R}{^ld}9L-27R{^ru}{@Y}{^u}{^l}H -81.782614 27.943659 33.7 134.00 3
+OBJECT_SIGN {@Y}{^l}G|F{^rd}{@@}{@R}{^ld}9L-27R{^ru}{@Y}{^u}{^l}H -81.782863 27.943895 33.9 134.00 3
+OBJECT_SIGN {@Y}{^l}MAIN_APRON|F{^r}{@@}{^u}{^l}C2|C1{^u}{^r} -81.784362 27.945469 35.1 273.00 3
+OBJECT_SIGN {@Y}{^l}MAIN_APRON|F{^r}{@@}{^u}{^l}C2|C1{^u}{^r} -81.784328 27.944888 34.7 273.00 3
+OBJECT_SIGN {@Y}C3{^r} -81.790435 27.936950 31.3 134.00 3
+OBJECT_SIGN {@Y}C3{^r} -81.790716 27.937211 31.5 134.00 3
+OBJECT_SIGN {@Y}G{^r}{@@}{^l}A3 -81.780885 27.941806 32.6 93.00 3
+OBJECT_SIGN {@Y}G{^r}{@@}{^l}A3 -81.780859 27.941268 32.3 93.00 3
+OBJECT_SIGN {@Y}H{^l}{@@}{@R}{^ld}27R-9L{^ru} -81.778782 27.947377 34.4 314.00 3
+OBJECT_SIGN {@Y}H{^l}{@@}{@R}{^ld}27R-9L{^ru} -81.778539 27.947155 34.3 314.00 3
+OBJECT_SIGN {@Y}H{^r}{@@}{^l}A1|A2{^r} -81.777806 27.947775 34.3 134.00 3
+OBJECT_SIGN {@Y}H{^r}{@@}{^l}A1|A2{^r} -81.778052 27.948004 34.5 134.00 3
+OBJECT FD65.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.841125 27.880086 -9999.0 0.00
+OBJECT FD62.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.971285 27.897382 -9999.0 0.00
+OBJECT 17FD.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.844989 27.900108 -9999.0 0.00

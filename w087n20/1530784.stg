@@ -1,2 +1,5 @@
-OBJECT_SHARED Models/Airport/ndb.ac -86.933933 20.52195 5.83 180
-OBJECT_SHARED Models/Communications/vordme_1.xml -86.929278 20.522064 11.25 180
+OBJECT_BASE 1530784.btg
+OBJECT MMCZ.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -86.916985 20.508812 8.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -86.939590 20.520842 6.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -86.927910 20.515558 8.0 0.00

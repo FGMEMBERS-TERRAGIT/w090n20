@@ -1,5 +1,1 @@
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -83.5883 22.2067 -0.53 268.66
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -83.5767 22.225 -0.22 313.89
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -83.57 22.235 -0.01 242.21
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -83.5933 22.1983 -0.74 281.59
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -83.5817 22.2167 -0.26 134.52
+OBJECT_BASE 1580041.btg

@@ -1,9 +1,1 @@
-OBJECT_SHARED Models/Airport/ndb.ac -82.852778 22.858056 84.71 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.955278 22.828333 361.86 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.800278 22.805 -94.06 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.784722 22.819722 -51.29 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.766389 22.807222 -77.78 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.797742 22.80169 -370.13 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.797258 22.801643 -369.62 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.762116 22.842938 -330.91 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.761773 22.842618 -330.44 180
+OBJECT_BASE 1596464.btg

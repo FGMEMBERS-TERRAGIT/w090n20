@@ -1,5 +1,5 @@
-OBJECT_SHARED Models/Airport/ndb.ac -82.580742 23.023175 38.95 180
-OBJECT_SHARED Models/Communications/vordme_1.xml -82.581714 23.023344 33.88 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -82.745556 23.012222 -432.62 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.746111 23.008611 -428.59 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.609444 23.013889 -404.16 180
+OBJECT_BASE 1596481.btg
+OBJECT MUPB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.584309 23.022872 34.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.574350 23.042481 7.7 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -82.580764 23.033204 20.2 0.00

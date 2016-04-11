@@ -1,13 +1,4 @@
-OBJECT_SHARED Models/Power/coolingtower.xml -81.164002 28.480568 24.09 180
-OBJECT_SHARED Models/Power/coolingtower.xml -81.163221 28.479988 23.81 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.242639 28.417417 -95.65 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.234722 28.408056 -88.04 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.214778 28.421667 -98.76 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.208056 28.478333 -73.27 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.161389 28.491944 -88.93 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.144167 28.450556 -108.04 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.093889 28.447778 -107.83 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.028333 28.444444 -94.85 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -81.165556 28.482778 -397.28 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.167738 28.482695 -307.89 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.167262 28.48286 -308 180
+OBJECT_BASE 1613211.btg
+OBJECT FA18.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.006838 28.451045 11.7 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.993839 28.451184 9.3 0.00

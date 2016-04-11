@@ -1,4 +1,4 @@
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.998333 22.832778 -361.01 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.887222 22.759167 -408.55 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.887222 22.759444 -403.26 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.886944 22.758889 -407.88 180
+OBJECT_BASE 1612848.btg
+OBJECT MUNB.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.925475 22.753901 16.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.916400 22.758735 19.9 0.00

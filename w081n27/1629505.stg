@@ -1,43 +1,10 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.565556 27.091944 -103.2 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.542778 27.027222 -94.95 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.565518 27.059099 -342.92 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.565037 27.059235 -342.91 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.56479 27.055078 -430.17 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.564532 27.054692 -430.18 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.564357 27.055308 -430.16 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.564098 27.054922 -430.16 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.514444 27.039167 -340.11 180
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580509 27.030863 4.82 270.34
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580509 27.030899 4.81 270
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580509 27.031655 4.81 269.53
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580507 27.030735 4.82 270.6
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580435 27.039755 4.75 269.47
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580434 27.039864 4.75 269.41
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580422 27.095021 8.1 94.92
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580404 27.094835 8 93.94
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580403 27.020503 4.91 270.28
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580401 27.017374 4.93 270.02
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580401 27.018467 4.92 270.03
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580394 27.008796 5 270.05
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580391 27.094611 8.1 93.62
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580384 27.00033 6.77 270.86
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580353 27.074024 6.51 269.86
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580352 27.07286 6 90.03
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580352 27.07424 7 89.7
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580348 27.067062 5.9 90.04
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580347 27.056217 5.18 89.89
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580347 27.094088 8.67 93.66
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580343 27.061064 5.88 269.9
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580343 27.061264 5.88 269.9
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580341 27.058995 5.89 269.97
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580333 27.077534 7.28 89.66
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580326 27.078469 7.37 89.46
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580321 27.093653 8.68 92.64
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580305 27.090614 8.55 269.96
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580301 27.089954 8.51 90.27
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580288 27.082348 7.79 270.64
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580288 27.092901 8.57 270.93
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580284 27.081572 7.7 89.57
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580283 27.086083 8.18 90.23
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580282 27.082138 7.77 270.64
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.580279 27.085162 8.07 270.03
+OBJECT_BASE 1629505.btg
+OBJECT 80FD.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.637971 27.118593 7.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.628974 27.108351 7.0 0.00
+OBJECT 81FL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.519753 27.074479 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.520354 27.068958 -9999.0 0.00
+OBJECT FA24.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.611976 27.096098 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.612468 27.090568 -9999.0 0.00

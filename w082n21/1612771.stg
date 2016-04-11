@@ -1,17 +1,5 @@
-OBJECT_SHARED Models/Airport/ndb.ac -81.52905 21.604172 2.59 180
-OBJECT_SHARED Models/Communications/vordme_1.xml -81.532778 21.605 2.58 180
-OBJECT_SHARED Models/Maritime/Misc/GreenBuoy.xml -81.5660587 21.591583 -0.51 324.02
-OBJECT_SHARED Models/Maritime/Misc/RedBuoy.xml -81.565728 21.5846575 -0.85 262.3
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -81.585 21.6083 -0.76 277.84
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -81.5817 21.6033 -0.94 233.5
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -81.5817 21.6133 -0.39 159.81
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -81.5767 21.6183 -0.08 294.73
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -81.572914 21.605969 -0.15 324.54
-OBJECT_SHARED Models/Maritime/Misc/right_bank_beacon.ac -81.5717 21.62 0 286.65
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -81.585 21.6067 -0.88 222.63
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -81.585 21.6117 -0.53 179.08
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -81.5817 21.6033 -0.94 97.25
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -81.58 21.615 -0.29 228.97
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -81.575 21.62 -0.03 84.95
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -81.57165 21.61627 0 17.95
-OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -81.565844 21.622083 -0.02 332.14
+OBJECT_BASE 1612771.btg
+OBJECT MUCL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.559156 21.623140 4.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.532844 21.609763 6.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -81.545326 21.617728 6.3 0.00

@@ -1,17 +1,8 @@
-OBJECT_SHARED Models/Airport/ndb.ac -82.157056 28.227086 24.63 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.24 28.2225 -101.68 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.211944 28.171111 -134.48 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.201667 28.206944 -117 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.179167 28.228056 -82.54 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.165028 28.172167 -117.94 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.157167 28.171389 -100.39 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.051389 28.218611 -77.79 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.049167 28.210556 20.82 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.034861 28.125889 -94.21 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.028583 28.221917 -101.78 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.013611 28.212778 -66.56 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.142514 28.166633 -420.14 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.14211 28.166906 -420.14 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.142043 28.166461 -420.14 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.138729 28.166588 -411 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -82.138493 28.16619 -411 180
+OBJECT_BASE 1596811.btg
+OBJECT 9FD2.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.146630 28.140575 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.146318 28.133343 -9999.0 0.00
+OBJECT KZPH.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.157413 28.229114 24.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.152799 28.221302 23.1 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -82.165068 28.226910 24.2 0.00

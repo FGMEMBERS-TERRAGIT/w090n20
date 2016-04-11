@@ -1,18 +1,7 @@
-OBJECT_SHARED Models/Airport/ndb.ac -82.430572 27.061442 8.08 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.435556 27.105278 -149.41 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.434444 27.105556 -141.63 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.43 27.112222 -108.29 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.399722 27.105 -140.02 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.399444 27.105556 -100.82 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.399167 27.106389 -119.18 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.398611 27.105 -146 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.398306 27.081194 -123.22 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.381278 27.017389 -142.64 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.375611 27.020361 -136.36 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.371667 27.100278 -44.47 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.371389 27.100556 -24.73 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.351944 27.109167 -115.71 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.323444 27.076306 -46.61 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.302222 27.040944 -94.81 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -82.255556 27.058889 -136.54 180
-OBJECT_SHARED Models/Communications/radio-tall.xml -82.3375 27.093611 -381.32 180
+OBJECT_BASE 1596738.btg
+OBJECT KVNC.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.445520 27.076199 3.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.436183 27.067273 3.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.435153 27.076656 2.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -82.443642 27.067251 2.4 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -82.439462 27.076974 3.8 0.00

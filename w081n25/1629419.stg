@@ -1,10 +1,4 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.165 25.688333 -171.75 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.160278 25.650833 -155.5 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.157778 25.672222 -102.51 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.157222 25.671667 -142.09 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.153611 25.743611 -72.47 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.226944 25.728056 -402.61 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.200556 25.749722 -424.46 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -80.217222 25.736389 -380.2 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -80.233889 25.7325 -406.12 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -80.156667 25.683611 -446.24 180
+OBJECT_BASE 1629419.btg
+OBJECT 83X.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.213368 25.740404 -9999.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -80.215268 25.739822 -9999.0 0.00

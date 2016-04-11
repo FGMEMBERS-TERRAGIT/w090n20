@@ -1,7 +1,1 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.996944 29.148889 -91.31 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.994444 29.16 -152.7 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.979167 29.170833 -435.13 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -80.977222 29.1675 -432.91 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -80.976667 29.166111 -435.23 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -80.985278 29.181944 -414.77 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -80.978333 29.169722 -435.55 180
+OBJECT_BASE 1629640.btg

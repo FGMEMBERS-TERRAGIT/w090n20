@@ -1,1 +1,5 @@
-OBJECT_SHARED Models/Communications/vordme_1.xml -88.448231 20.643058 31.57 180
+OBJECT_BASE 1498028.btg
+OBJECT MMCT.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.459738 20.644219 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -88.432701 20.638370 28.8 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -88.445948 20.642694 31.6 0.00

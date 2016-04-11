@@ -1,19 +1,11 @@
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.726111 27.988889 -35.63 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.693139 27.968889 -108.11 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.670278 27.996944 -70.8 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.624972 27.993278 -112.2 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.624167 27.990833 -119.14 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.621944 27.991389 -80.2 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.621389 27.925 -147.3 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.621111 27.979167 -101.9 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.615 27.895278 -116.9 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.603333 27.934444 -117.19 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.562778 27.958056 -144.83 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.560917 27.996528 -146.79 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.538056 27.884722 -114.13 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.536944 27.921111 -105 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.536389 27.890556 -112.63 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.536111 27.890278 -98.57 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.516389 27.882778 -133.22 180
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.649317 27.937799 6.98 305.91
-OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.649267 27.937738 6.98 305.91
+OBJECT_BASE 1629561.btg
+OBJECT 06X.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.523107 27.875569 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.509776 27.875033 -9999.0 0.00
+OBJECT X59.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.571338 27.962534 4.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.566282 27.968969 4.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.558668 27.961632 6.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.558163 27.959920 6.8 0.00
+OBJECT 37FD.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.626651 27.989216 -9999.0 0.00

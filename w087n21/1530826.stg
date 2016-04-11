@@ -1,1 +1,4 @@
-OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -86.748611 21.135278 -438.12 180
+OBJECT_BASE 1530826.btg
+OBJECT MMIM.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -86.742017 21.249619 1.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -86.737916 21.240448 4.8 0.00

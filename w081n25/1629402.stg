@@ -1,14 +1,7 @@
-OBJECT_SHARED Models/Airport/ils.xml -80.392556 25.479833 0.99 312.36
-OBJECT_SHARED Models/Airport/tacan.xml -80.379444 25.489528 0.95 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.484167 25.469167 -130.41 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.4775 25.469722 -155.72 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.471667 25.473611 -101.47 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.471111 25.474167 -101.51 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.469167 25.431667 -156.35 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.4475 25.478611 -138.1 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.439722 25.381778 -106 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -80.339722 25.433889 -138.67 180
-OBJECT_SHARED Models/Airport/marker.ac -80.403944 25.472056 1 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -80.410083 25.454333 -453 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.330713 25.435659 -377.49 180
-OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -80.330398 25.436007 -377.55 180
+OBJECT_BASE 1629402.btg
+OBJECT KHST.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.395809 25.480362 1.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.372639 25.498319 1.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -80.387858 25.493296 1.0 0.00
+OBJECT FD16.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -80.330796 25.432416 -9999.0 0.00

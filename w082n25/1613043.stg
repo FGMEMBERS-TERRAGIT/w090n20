@@ -1,5 +1,4 @@
-OBJECT_SHARED Models/Airport/ndb.ac -81.011022 25.861822 0.87 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.115556 25.866111 -141.25 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.112694 25.866778 -132.27 180
-OBJECT_SHARED Models/Communications/radio-medium.xml -81.033611 25.862778 -126.23 180
-OBJECT_SHARED Models/Airport/marker.ac -81.011022 25.861822 0.87 180
+OBJECT_BASE 1613043.btg
+OBJECT 9FL7.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.033955 25.860577 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.035075 25.854065 -9999.0 0.00
