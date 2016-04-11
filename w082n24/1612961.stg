@@ -1,0 +1,10 @@
+OBJECT_SHARED Models/Airport/tacan.xml -81.682311 24.580147 0.73 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.748333 24.568333 -152.77 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.74675 24.579028 -151.22 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.746667 24.579167 -150.61 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.74 24.571944 -150.98 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.738611 24.571944 -148.29 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.703056 24.5975 -168.44 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.688611 24.585278 -162.17 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.659972 24.596 -160.88 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -81.734722 24.564167 -468.94 180
