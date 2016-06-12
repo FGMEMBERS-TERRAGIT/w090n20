@@ -14,3 +14,11 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -80.355278 25.596667 -87.86
 OBJECT_SHARED Models/Communications/radio-tall.xml -80.468333 25.540278 -47.31 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -80.4 25.616944 -418.8 180
 OBJECT_SHARED Models/Airport/localizer.xml -80.367556 25.500942 1 139.3
+# osm2city_w090n20_w081n25_1629402
+# do not edit below this line
+# Last Written Thu Mar 17 11:41:28 2016
+#
+OBJECT_STATIC w090n20_w081n25_1629402city0108.ac -80.45148 25.50981 2.09 0
+OBJECT_STATIC w090n20_w081n25_1629402city0208.ac -80.40178 25.50981 1.00 0
+OBJECT_STATIC w090n20_w081n25_1629402city0308.ac -80.35207 25.50981 1.00 0
+# END osm2city_w090n20_w081n25_1629402
