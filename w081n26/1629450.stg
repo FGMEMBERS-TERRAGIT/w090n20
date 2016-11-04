@@ -1,0 +1,21 @@
+OBJECT_SHARED Models/Airport/ndb.ac -80.2985 26.185644 1.11 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.466889 26.145472 -113.2 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.449167 26.174722 -118.97 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.445556 26.150278 -135.4 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.441389 26.137778 -136.92 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.345278 26.145 -66.4 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.337222 26.1425 -110.62 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.335278 26.130833 -135.93 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.297222 26.191111 -163.38 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.295833 26.145278 -158.8 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.289722 26.183611 -150.8 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.256111 26.1775 -164.53 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.253333 26.2 -159.9 180
+OBJECT_SHARED Models/Airport/marker.ac -80.2985 26.185644 1.11 180
+# osm2city_w090n20_w081n26_1629443
+# do not edit below this line
+# Last Written Thu Oct 22 03:11:07 2015
+#
+OBJECT_STATIC w090n20_w081n26_1629443city0912.xml -80.25284 26.12613 0.99 0
+OBJECT_STATIC lightmap-switch.xml -80.25284 26.12613 0.99 0
+# END osm2city_w090n20_w081n26_1629443

@@ -1,0 +1,8 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.570556 25.604722 -7.57 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.510278 25.610278 -155.33 180
+# osm2city_w090n20_w081n25_1629402
+# do not edit below this line
+# Last Written Thu Mar 17 11:41:28 2016
+#
+OBJECT_STATIC w090n20_w081n25_1629402city0008.ac -80.50119 25.50981 1.81 0
+# END osm2city_w090n20_w081n25_1629402

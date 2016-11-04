@@ -1,0 +1,14 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.6775 28.3525 -100.3 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.651667 28.36 -75.26 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.6225 28.274167 -75.04 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.616111 28.370222 -86.23 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.5825 28.300278 -113.26 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.527917 28.337583 -112.65 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -81.516183 28.332508 -100.86 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -81.51 28.360833 -381.83 180
+# osm2city_w090n20_w082n28_1613210
+# do not edit below this line
+# Last Written Tue Feb  9 14:46:19 2016
+#
+OBJECT_STATIC w090n20_w082n28_1613210city0200.ac -81.50535 28.37181 32.93 0
+# END osm2city_w090n20_w082n28_1613210

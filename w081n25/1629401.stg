@@ -1,0 +1,16 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.688611 25.383611 -138.46 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.681389 25.390556 -116.86 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.566389 25.383611 -168.57 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.541333 25.402972 -148.71 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.535 25.446111 -144.2 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.523611 25.441944 -168.75 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.516111 25.4525 -136.53 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.515556 25.452778 -137.32 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.501944 25.434722 -89.31 180
+# osm2city_w090n20_w081n25_1629402
+# do not edit below this line
+# Last Written Thu Mar 17 11:41:28 2016
+#
+OBJECT_STATIC w090n20_w081n25_1629402city0006.ac -80.50119 25.41954 0.92 0
+OBJECT_STATIC w090n20_w081n25_1629402city0007.ac -80.50119 25.46468 0.88 0
+# END osm2city_w090n20_w081n25_1629402

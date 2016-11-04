@@ -1,0 +1,50 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.171111 26.518889 -42.61 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.169 26.522639 -95.91 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.123889 26.512778 -118.52 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.120556 26.621111 -156.9 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.115556 26.553056 -145.74 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.104722 26.548889 -134.15 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.093333 26.523611 -122.85 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.093056 26.525278 -158.13 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.091667 26.522778 -77.77 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.091389 26.522778 -75.32 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.091111 26.522778 -124.16 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.090556 26.61 -169.04 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.080833 26.53 -152.41 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.080278 26.620556 -135.21 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.071944 26.623056 -149.99 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.071667 26.541111 -93.39 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.070444 26.573083 -155.49 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.067972 26.587694 -161.56 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.065556 26.588611 -152.4 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.037778 26.611667 -115.3 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -80.241944 26.577222 -138.83 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -80.211889 26.589222 -199.54 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -80.208056 26.588333 -292.03 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -80.207972 26.588806 -292.01 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222657 26.573471 3.99 270.92
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222299 26.553622 4.64 271.11
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222247 26.551556 4.78 271.02
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222228 26.548887 4.97 270
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222223 26.548249 4.99 270.51
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222221 26.549772 4.9 270.17
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222208 26.546999 4.98 270.76
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222188 26.544255 4.97 272.24
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222183 26.545118 4.97 269.71
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222181 26.545474 4.96 270.31
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222016 26.541816 4.96 280.58
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.222012 26.542368 4.97 272.2
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -80.219524 26.536166 4.99 291.53
+# osm2city_w090n20_w081n26_1629483
+# do not edit below this line
+# Last Written Sun Oct 18 09:03:07 2015
+#
+OBJECT_STATIC w090n20_w081n26_1629483city0813.xml -80.23724 26.62033 4.28 0
+OBJECT_STATIC lightmap-switch.xml -80.23724 26.62033 4.28 0
+OBJECT_STATIC w090n20_w081n26_1629483city0913.xml -80.21715 26.62033 4.97 0
+OBJECT_STATIC w090n20_w081n26_1629483city1013.xml -80.19706 26.62033 4.99 0
+OBJECT_STATIC w090n20_w081n26_1629483city1113.xml -80.17696 26.62033 4.25 0
+OBJECT_STATIC w090n20_w081n26_1629483city1513.xml -80.09658 26.62033 2.65 0
+OBJECT_STATIC w090n20_w081n26_1629483city1713.xml -80.05639 26.62033 3.68 0
+OBJECT_STATIC w090n20_w081n26_1629483city1813.xml -80.03630 26.62033 0.38 0
+# END osm2city_w090n20_w081n26_1629483

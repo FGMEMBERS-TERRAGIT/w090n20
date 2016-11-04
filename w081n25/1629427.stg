@@ -1,0 +1,140 @@
+OBJECT_SHARED Models/Airport/ndb.ac -80.194206 25.790686 2.87 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.246389 25.758056 -174.66 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.244167 25.800278 -153.58 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.238611 25.795278 -153.3 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.238056 25.811667 -149.37 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.231944 25.813889 -156.19 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.2225 25.752778 -169.77 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.220833 25.809167 -139.17 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.220306 25.810361 -149.35 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.219333 25.795278 -147.14 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.216389 25.795278 -157.88 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.215 25.858611 -121.29 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.214444 25.785833 -151.96 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.213889 25.781111 -131.24 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.213083 25.79175 -133.92 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.208056 25.8275 -132.99 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.201667 25.815556 -165.12 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.199722 25.750556 -94.92 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.198056 25.769722 -109.01 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.194167 25.788611 -157.43 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.190833 25.763889 -153.38 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.190556 25.788056 -133.7 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.190278 25.776389 -112.19 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.189444 25.78 -109.36 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.189444 25.839722 -135.06 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.188889 25.7625 -99.93 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.188889 25.776111 -72.73 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.188889 25.776944 -104.69 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.188611 25.776944 -103.8 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.186944 25.823889 -146.46 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.186389 25.81 -100.45 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.184722 25.788889 -78.55 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.166944 25.848333 -112 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.155 25.849444 -103.59 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.147222 25.771111 -119.54 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.143333 25.793056 -137.32 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.143056 25.763611 -102.46 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.136389 25.769444 -141.49 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -80.131111 25.799444 -131.95 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -80.154444 25.7519 -0.01 180
+OBJECT_SHARED Models/Airport/marker.ac -80.195014 25.805086 3.08 180
+OBJECT_SHARED Models/Airport/marker.ac -80.194206 25.790686 2.87 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.238333 25.765278 -437.19 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.211111 25.788333 -420.33 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.194722 25.755278 -413.9 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.191389 25.765 -437.39 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.18 25.838611 -413.65 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.147778 25.789444 -438.74 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.145556 25.846944 -405.42 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.141972 25.776167 -378.27 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.133056 25.766944 -357.77 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -80.121667 25.822778 -329.39 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -80.216667 25.785833 -452.25 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -80.199167 25.751667 -379.04 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -80.193611 25.756389 -400.86 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -80.190278 25.775556 -418.41 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -80.189444 25.766389 -358.21 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -80.168056 25.873611 -429.05 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -80.143889 25.786944 -396.34 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -80.213056 25.791667 -434.03 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -80.193333 25.765 -383.47 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -80.193056 25.756944 -380.66 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -80.185 25.769167 -391.43 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -80.202222 25.750556 -411.89 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -80.135 25.7675 -354.85 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -80.195556 25.755 -341.01 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -80.191667 25.760833 -352.16 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -80.188056 25.773889 -303.01 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -80.1875 25.809444 -436.37 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -80.186389 25.771389 -344.99 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -80.185556 25.789722 -392.33 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -80.179722 25.837222 -412.51 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -80.125 25.802778 -442.2 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -80.12 25.851111 -418.6 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -80.191111 25.759444 -406.98 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -80.121944 25.819444 -437.92 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -80.121111 25.834167 -420.36 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -80.198381 25.751903 -382.43 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -80.186111 25.790833 -377.54 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -80.134167 25.766944 -405.9 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -80.128889 25.793889 -443.62 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -80.121389 25.837222 -428.9 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -80.195278 25.774722 -390.72 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -80.187778 25.790556 -401.51 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -80.121389 25.823611 -434.55 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -80.196667 25.775556 -330.36 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -80.188056 25.772222 -259.27 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -80.184722 25.766944 -431.72 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -80.132222 25.790833 -435.6 180
+OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac -80.0833 25.7683 -0.88 112.6
+# osm2city_w090n20_w081n25_1629427
+# do not edit below this line
+# Last Written Thu Mar 17 10:43:47 2016
+#
+OBJECT_STATIC w090n20_w081n25_1629427city0506.ac -80.20287 25.79375 4.40 0
+OBJECT_STATIC w090n20_w081n25_1629427city0507.ac -80.20287 25.83888 2.15 0
+OBJECT_STATIC w090n20_w081n25_1629427city0606.ac -80.15301 25.79375 -0.01 0
+OBJECT_STATIC w090n20_w081n25_1629427city0607.ac -80.15301 25.83888 -0.15 0
+OBJECT_STATIC w090n20_w081n25_1629427city0706.ac -80.10315 25.79375 -1.01 0
+OBJECT_STATIC w090n20_w081n25_1629427city0707.ac -80.10315 25.83888 -1.25 0
+# END osm2city_w090n20_w081n25_1629427
+# osm2roads_w090n20_w081n25_1629427
+# do not edit below this line
+# Last Written Thu Mar 17 10:44:43 2016
+#
+OBJECT_STATIC w090n20_w081n25_1629427roads0000.xml -80.22507 25.77257 2.00 0
+OBJECT_STATIC w090n20_w081n25_1629427roads0001.xml -80.22507 25.81770 2.00 0
+OBJECT_STATIC w090n20_w081n25_1629427roads0002.xml -80.22507 25.86283 1.00 0
+OBJECT_STATIC w090n20_w081n25_1629427roads0100.xml -80.17521 25.77257 -0.03 0
+OBJECT_STATIC w090n20_w081n25_1629427roads0101.xml -80.17521 25.81770 0.00 0
+OBJECT_STATIC w090n20_w081n25_1629427roads0102.xml -80.17521 25.86283 1.24 0
+OBJECT_STATIC w090n20_w081n25_1629427roads0200.xml -80.12534 25.77257 -0.06 0
+OBJECT_STATIC w090n20_w081n25_1629427roads0201.xml -80.12534 25.81770 1.00 0
+OBJECT_STATIC w090n20_w081n25_1629427roads0202.xml -80.12534 25.86283 0.84 0
+# END osm2roads_w090n20_w081n25_1629427
+# osm2city_w090n20_w081n25_1629435
+# do not edit below this line
+# Last Written Thu Mar 17 11:21:05 2016
+#
+OBJECT_STATIC w090n20_w081n25_1629435city0505.ac -80.22525 25.87361 1.49 0
+OBJECT_STATIC w090n20_w081n25_1629435city0605.ac -80.17533 25.87361 1.48 0
+OBJECT_STATIC w090n20_w081n25_1629435city0705.ac -80.12542 25.87361 0.99 0
+OBJECT_STATIC w090n20_w081n25_1629435city0805.ac -80.07550 25.87361 -2.55 0
+# END osm2city_w090n20_w081n25_1629435
+# osm2city_w090n20_w081n25_1629426
+# do not edit below this line
+# Last Written Thu Mar 17 12:09:45 2016
+#
+OBJECT_STATIC w090n20_w081n25_1629426city0705.ac -80.23171 25.75045 2.65 0
+OBJECT_STATIC w090n20_w081n25_1629426city0706.ac -80.23171 25.79558 1.00 0
+OBJECT_STATIC w090n20_w081n25_1629426city0707.ac -80.23171 25.84071 2.00 0
+# END osm2city_w090n20_w081n25_1629426
+# osm2roads_w090n20_w081n25_1629426
+# do not edit below this line
+# Last Written Thu Mar 17 12:10:12 2016
+#
+OBJECT_STATIC w090n20_w081n25_1629426roads0500.xml -80.22576 25.77257 2.00 0
+OBJECT_STATIC w090n20_w081n25_1629426roads0501.xml -80.22576 25.81770 1.99 0
+OBJECT_STATIC w090n20_w081n25_1629426roads0502.xml -80.22576 25.86283 1.00 0
+# END osm2roads_w090n20_w081n25_1629426
