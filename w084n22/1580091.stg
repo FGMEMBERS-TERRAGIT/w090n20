@@ -1,3 +1,4 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -83.173056 22.924167 -102.86 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -83.195278 22.920833 -421.95 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -83.035556 22.962222 -408.16 180
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -83.2157923 22.9945335 2.21 0
