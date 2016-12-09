@@ -1,6 +1,6 @@
 AC3Db
 MATERIAL "default" rgb 0.5 0.5 0.5 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0
-MATERIAL "Orlando_Eye" rgb 1 1 1 amb 0.4 0.4 0.4 emis 0.4 0.4 0.4 spec 0.2 0.2 0.2 shi 128 trans 0
+MATERIAL "Orlando_Eye" rgb 1 1 1 amb 0.4 0.4 0.4 emis 0.5 0.5 0.5 spec 0.2 0.2 0.2 shi 128 trans 0
 MATERIAL "0007_MistyRose" rgb 1 1 1 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0000
 MATERIAL "0008_LavenderBlush" rgb 0.0000 0.0000 0.8039 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.7529
 MATERIAL "0009_Linen" rgb 1 1 1 amb 0.4 0.4 0.4 emis 0 0 0 spec 0.2 0.2 0.2 shi 128 trans 0.0000

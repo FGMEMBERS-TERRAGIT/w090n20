@@ -7,3 +7,4 @@ OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -80.455 22.0967 -0.08 29.
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -80.4533 22.095 -0.08 146.21
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -80.4433 22.0717 0 338.98
 OBJECT_SHARED Models/Maritime/Misc/left_bank_beacon.ac -80.4383 22.11 -0.13 300.18
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml -80.4432266 22.033834 -2.41 0
