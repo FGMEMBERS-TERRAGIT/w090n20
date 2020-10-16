@@ -10,6 +10,7 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -81.786389 24.548333 -158.4
 OBJECT_SHARED Models/Communications/radio-medium.xml -81.766389 24.583333 -149.73 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -81.75225 24.574806 -154.31 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -81.800478 24.585878 -0.01 180
+OBJECT_SHARED Models/Communications/radome-16m.xml -81.803502 24.544913 -0.02 0
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.782035 24.566669 -0.02 209.6
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.778151 24.568676 -0.02 211.27
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.774621 24.570756 -0.01 205.1
@@ -86,3 +87,6 @@ OBJECT_SHARED Models/lib/RampParking.xml -81.75429 24.55476 0.85 310.32
 OBJECT_SHARED Models/lib/RampGroup.xml -81.75569 24.55457 0.87 310.57
 OBJECT_SHARED Models/Airport/tower_small_airfield.xml -81.75640 24.55365 0.96 0
 # END dsf2stg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.758221 24.556975 1 0
+OBJECT_SHARED Models/Maritime/Civilian/small-clear-yacht.ac -81.816242 24.556121 -0.02 45
+OBJECT_SHARED Models/Communications/Antenna4.ac -81.803952 24.545391 0.05 0
