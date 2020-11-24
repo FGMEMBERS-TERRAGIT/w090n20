@@ -8,3 +8,10 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -81.258333 29.458333 -129.8
 OBJECT_SHARED Models/Communications/radio-medium.xml -81.256889 29.460556 -64.01 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.267243 29.496633 7.09 319.65
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -81.266764 29.496277 7 319.51
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/farm19x12.ac -81.48826 29.44063 0.00 324.52
+OBJECT_SHARED Models/lib/lamp10m.xml -81.48683 29.44170 1.00 135
+OBJECT_SHARED Models/lib/lamp10m.xml -81.48700 29.44191 1.00 135
+# END dsf2stg

@@ -88,3 +88,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.001293 26.562878 1 178.1
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.001196 26.562875 0.99 179.66
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.001097 26.562877 1.01 181.41
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -82.000634 26.562888 1 181.07
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Misc/FlagpoleFG.xml -82.21963 26.60339 0.00 0
+OBJECT_SHARED Models/lib/transformer3x3.ac -82.21960 26.60339 1.05 171.59
+# END dsf2stg

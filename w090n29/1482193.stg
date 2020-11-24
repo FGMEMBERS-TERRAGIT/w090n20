@@ -3,3 +3,8 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -89.538333 29.368611 -119.0
 OBJECT_SHARED Models/Communications/radio-medium.xml -89.537778 29.358056 -104.51 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -89.532222 29.355833 -109.04 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -89.523944 29.355194 -124.41 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/OilPlatform.xml -89.61423 29.31411 0.00 90
+# END dsf2stg

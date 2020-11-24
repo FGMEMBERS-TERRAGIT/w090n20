@@ -2,3 +2,10 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -82.043889 26.714167 -138.4
 OBJECT_SHARED Models/Communications/radio-medium.xml -82.037583 26.715083 -115.81 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -82.026111 26.638889 -103.96 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -82.025278 26.640278 -107.88 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/trailer-fedex.ac -82.11850 26.65770 0.00 270
+OBJECT_SHARED Models/Transport/Norberttruck.xml -82.11943 26.65743 1.40 359.17
+OBJECT_SHARED Models/lib/LongRow.ac -82.11965 26.65764 1.68 359.66
+# END dsf2stg
